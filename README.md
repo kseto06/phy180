@@ -1,1 +1,3 @@
-# phy180
+# PHY180
+
+Code for pendulum project
